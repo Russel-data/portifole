@@ -1,0 +1,10 @@
+nome,telefone,cpf,cnpj,dt_contrato,tipo,valor,contrato,prazo_contrato
+wallisson russel reinaldo lima borges,62 992508093, 034.075.391-93,,1991-04-16,Pessoa Física,1200.0,contrato semenstral,2024-09-25
+Guilherme Amorim,62992508093, 03407539193,,1993-10-18,Pessoa Jurídica,100.0,contrato mensal,2024-09-25
+CLAUDIANE MENDES,62999141518,11832188814,,2024-08-26,Pessoa Física,1500.0,contrato mensal,2024-09-25
+LUCAS PAULO DA SILVA,62 997456789,12345609812,,2024-08-26,Pessoa Física,3000.0,contrato semestral,2025-02-22
+MARIA ASSUNÇÃO,62 987451812,12309812345,,2024-08-26,Pessoa Jurídica,-1200.0,contrato semestral,2025-02-22
+KAMILLY MENDES BORGES,62 999813047,11550141627,,2024-08-26,Pessoa Jurídica,300.0,contrato mensal,2024-09-25
+JOSE MARIA DA SILVA,62 999813090,09876412332,,2024-08-01,Pessoa Física,1500.0,contrato mensal,2024-08-31
+POLIANA ALVES DE SOUZA,62 993409080,09812345678,,2024-06-01,Pessoa Jurídica,300.0,contrato mensal,2024-07-01
+jamilly mendes borges,62999813047,11550107659,,2024-05-13,Pessoa Jurídica,600.0,contrato mensal,2024-06-12
